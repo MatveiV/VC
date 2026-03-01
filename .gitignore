@@ -1,0 +1,30 @@
+# Виртуальное окружение
+venv/
+.venv/
+env/
+ENV/
+
+# Файлы истории диалогов
+*_history.json
+chat_history.json
+
+# Переменные окружения
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
